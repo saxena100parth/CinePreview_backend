@@ -20,3 +20,5 @@ GitHub-pages - for deploying frontend. <br>
 MongoDB Atlas - for cloud MongoDB database. <br>
 Maven - build automation tool. <br>
 tmdb.org - a website which provides free to use API for development, I use it for posters of movies. <br>
+
+![CinePreview](https://user-images.githubusercontent.com/87128985/232482614-bf559a1b-165e-448b-ad61-cb10f389eb3a.jpg)
