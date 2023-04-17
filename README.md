@@ -1,6 +1,6 @@
 # CinePreview_backend
 This repository contain backend code for movie review application.<br>
--- Link for the frontend repository [click here](https://github.com/saxena100parth/CinePreview_frontend)
+-- Link for the frontend repository [click here](https://github.com/saxena100parth/CinePreview-frontend)
 ## Deployed end-points :
 [API End-point (GET) ](https://cinepreviewbackend-production.up.railway.app/api/v1/movies) <br>
 - this return all movies with details in json array 
