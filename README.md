@@ -39,4 +39,7 @@ MongoDB Atlas - for cloud MongoDB database. <br>
 Maven - build automation tool. <br>
 tmdb.org - a website which provides free to use API for development, I use it for posters of movies. <br>
 
+![CinePreview](https://user-images.githubusercontent.com/87128985/232482614-bf559a1b-165e-448b-ad61-cb10f389eb3a.jpg)
+![CinePrevier_review](https://user-images.githubusercontent.com/87128985/232487453-5689cf3d-f8da-482b-9e50-93fe93dfe6a7.jpg)
+
 
