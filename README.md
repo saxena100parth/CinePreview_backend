@@ -4,6 +4,7 @@ link for the frontend repository [click here](https://github.com/saxena100parth/
 ## Deployed end-points :
 [GET API End-point ](https://cinepreviewbackend-production.up.railway.app/api/v1/movies)
 <br>
+- this return all movies with details in json array  <br>
 [POST API End-point](https://cinepreviewbackend-production.up.railway.app/api/v1/reviews)
 <br>
 - you can check POST API with this test body: <br>
