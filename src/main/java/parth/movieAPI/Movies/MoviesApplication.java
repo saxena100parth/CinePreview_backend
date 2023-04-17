@@ -19,7 +19,7 @@ public class MoviesApplication {
 	public WebMvcConfigurer corsConfigurer(){
 		return new WebMvcConfigurer() {
 			public void addCorsMappings(CorsRegistry registry){
-				registry.addMapping("/**").allowedOrigins("http://localhost:3000");
+				registry.addMapping("/**").allowedOrigins("https://saxena100parth.github.io/");
 			}
 		};
 	}
