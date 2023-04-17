@@ -2,11 +2,11 @@
 This repository contain backend code for movie review application.<br>
 -- Link for the frontend repository [click here](https://github.com/saxena100parth/CinePreview_frontend)
 ## Deployed end-points :
-[GET API End-point ](https://cinepreviewbackend-production.up.railway.app/api/v1/movies) <br>
+[API End-point (GET) ](https://cinepreviewbackend-production.up.railway.app/api/v1/movies) <br>
 - this return all movies with details in json array 
 <br>
 
-[GET API End-point ](https://cinepreviewbackend-production.up.railway.app/api/v1/movies) <br>
+[API End-point (POST) ](https://cinepreviewbackend-production.up.railway.app/api/v1/reviews) <br>
 - you can test POST API with this sample body: <br>
  { <br>
     "reviewBody" : "I am going to watch this movie multiple times.", <br>
